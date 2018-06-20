@@ -57,7 +57,6 @@ module.exports = function () {
   output = config.paths.output;
   source = config.paths.source;
 
-
   /*--------------
      Copy Source
   ---------------*/
@@ -129,7 +128,7 @@ module.exports = function () {
       ---------------*/
 
       // recompile on *.override , *.variable change
-      isConfig        = (file.path.indexOf('theme.config') !== -1 || file.path.indexOf('site.variables') !== -1);
+      isConfig        = (file.path.indexOf('theme.config') !== -1 /*|| file.path.indexOf('site.variables') !== -1*/);
       isPackagedTheme = (file.path.indexOf(source.themes) !== -1);
       isSiteTheme     = (file.path.indexOf(source.site) !== -1);
       isDefinition    = (file.path.indexOf(source.definitions) !== -1);
@@ -250,6 +249,5 @@ module.exports = function () {
       ;
     })
   ;
-
 
 };
