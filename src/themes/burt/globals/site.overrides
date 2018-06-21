@@ -1,3 +1,91 @@
 /*******************************
         Global Overrides
 *******************************/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+/* Light */
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-light.woff) format('woff')
+  ;
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-light-italic.woff) format('woff')
+  ;
+  font-style: italic;
+  font-weight: 300;
+}
+
+/* Extra Light */
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-extra-light.woff) format('woff')
+  ;
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-extra-light-italic.woff) format('woff')
+  ;
+  font-style: italic;
+  font-weight: 300;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-regular.woff) format('woff')
+  ;
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-regular-italic.woff) format('woff')
+  ;
+  font-style: italic;
+  font-weight: normal;
+}
+
+/* Semi Bold */
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-demi.woff) format('woff')
+  ;
+  font-style: normal;
+  font-weight: 600;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-bold.woff) format('woff')
+  ;
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Extra Bold */
+@font-face {
+  font-family: 'DIN2014';
+  src:
+    url(/fonts/din2014/DIN2014-extra-bold.woff) format('woff')
+  ;
+  font-style: normal;
+  font-weight: 900;
+}

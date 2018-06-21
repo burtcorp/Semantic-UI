@@ -6,14 +6,15 @@
        Fonts
 --------------------*/
 
-@fontName          : 'Lato';
+@fontName          : 'DIN2014';
 @fontSmoothing     : antialiased;
+
 
 @headerFont        : @fontName, 'Helvetica Neue', Arial, Helvetica, sans-serif;
 @pageFont          : @fontName, 'Helvetica Neue', Arial, Helvetica, sans-serif;
 
 @googleFontName    : @fontName;
-@importGoogleFonts : true;
+@importGoogleFonts : false;
 @googleFontSizes   : '400,700,400italic,700italic';
 @googleSubset      : 'latin';
 
@@ -226,7 +227,7 @@
 @olive            : #B5CC18;
 @green            : #21BA45;
 @teal             : #00B5AD;
-@blue             : #2185D0;
+@blue             : #0078FF;
 @violet           : #6435C9;
 @purple           : #A333C8;
 @pink             : #E03997;
@@ -379,8 +380,8 @@
 --------------------*/
 
 /* For source only. Modified in gulp for dist */
-@imagePath : '../../themes/default/assets/images';
-@fontPath  : '../../themes/default/assets/fonts';
+@imagePath : '../../themes/burt/assets/images';
+@fontPath  : '../../themes/burt/assets/fonts';
 
 /*-------------------
        Em Sizes
