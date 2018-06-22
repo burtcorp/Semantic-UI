@@ -1,3 +1,49 @@
 /*******************************
          Theme Overrides
 *******************************/
+
+.ui.basic.menu {
+    border-radius: 0;
+    background-color: #EFF1F4;
+    border: 0;
+    border-bottom: 1px solid rgba(0,0,0, .05);
+    box-shadow: none;
+    padding: 15px 30px;
+}
+
+.ui.basic.menu .page-title {
+    display: flex;
+}
+
+.ui.basic.menu .page-title .item-name {
+    margin-left: 15px;
+}
+
+.ui.basic.menu .page-title .item-name .title {
+    display: block;
+    font-size: 18px;
+    color: #485867;
+    margin: 4px 0 0;
+    text-transform: uppercase;
+}
+
+.ui.basic.menu .ui.mini.breadcrumb {
+    text-transform: uppercase;
+}
+
+.ui.basic.menu .ui.breadcrumb a {
+    color: #6D849A;
+}
+
+.ui.basic.menu .right.menu {
+    align-items: center;
+}
+
+.ui.basic.menu .right.menu .icon {
+    margin-top: -5px;
+    color: #98AFC5;
+}
+
+.ui.basic.menu .right.menu .avatar {
+    margin-left: 5px;
+}
