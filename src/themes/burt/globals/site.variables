@@ -221,18 +221,18 @@
 --------------------*/
 
 /*---  Colors  ---*/
-@red              : #DB2828;
-@orange           : #F2711C;
-@yellow           : #FBBD08;
-@olive            : #B5CC18;
-@green            : #21BA45;
-@teal             : #00B5AD;
+@red              : #E42653;
+@orange           : #FA6721;
+@yellow           : #F9D02E;
+@olive            : #A9E01E;
+@green            : #1AC715;
+@teal             : #55ACEE;
 @blue             : #0078FF;
-@violet           : #6435C9;
-@purple           : #A333C8;
-@pink             : #E03997;
-@brown            : #A5673F;
-@grey             : #767676;
+@violet           : #9012FE;
+@purple           : #A23BC5;
+@pink             : #EB5DAB;
+@brown            : #DE924E;
+@grey             : #828A92;
 @black            : #171D25;
 
 /*---  Light Colors  ---*/
