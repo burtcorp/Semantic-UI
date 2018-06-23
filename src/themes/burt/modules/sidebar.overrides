@@ -16,6 +16,7 @@
 
 .ui.vertical.menu .with-icon {
     display: flex;
+    margin-bottom: 5px;
 }
 
 .ui.vertical.menu .with-icon .item-name {

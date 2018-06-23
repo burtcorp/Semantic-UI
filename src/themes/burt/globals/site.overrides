@@ -91,6 +91,17 @@
 }
 
 /*-------------------
+      Background
+--------------------*/
+
+.ui.light-bg {
+  background-color: #f5f7f9 !important;
+}
+.ui.segment.light-bg {
+  margin-top: 0;
+}
+
+/*-------------------
        Divider
 --------------------*/
 
