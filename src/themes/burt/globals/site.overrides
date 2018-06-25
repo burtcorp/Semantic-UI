@@ -109,3 +109,33 @@
     position: relative;
     padding: 0 !important;
 }
+
+/*-------------------
+       Login
+--------------------*/
+.forgot-pass {
+  margin-top: 15px;
+}
+.login .ui.form .icon {
+  color: #98AFC5;
+  opacity: 1 !important;
+}
+
+/*-------------------
+       Button
+--------------------*/
+.ui.basic.link {
+  color: #6D849A;
+}
+
+.ui.basic.link .icon {
+  color: #98AFC5;
+}
+
+.ui.basic.link:hover {
+  color: #0078FF;
+}
+
+.ui.basic.link:hover .icon {
+  color: #0078FF;
+}
