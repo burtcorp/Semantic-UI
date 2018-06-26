@@ -139,3 +139,15 @@
 .ui.basic.link:hover .icon {
   color: #0078FF;
 }
+
+/*-------------------
+       Hub
+--------------------*/
+.hub .ui.image {
+  margin: auto;
+}
+.hub .title {
+  font-size: 16px;
+  color: #6D849A;
+  font-weight: normal;
+}
