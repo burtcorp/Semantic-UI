@@ -56,24 +56,24 @@
    font-family: DIN2014;
    src: url(https://res.cloudinary.com/kazitihum/raw/upload/v1530357793/Burt%20Semantic%20UI/DIN2014-demi.woff) format('woff');
    font-style: normal;
-   font-weight: 600
+   font-weight: 700
  }
 
 /* Bold */
- @font-face {
+ /*@font-face {
    font-family: DIN2014;
    src: url(https://res.cloudinary.com/kazitihum/raw/upload/v1530357793/Burt%20Semantic%20UI/DIN2014-bold.woff) format('woff');
    font-style: normal;
    font-weight: 700
- }
+ }*/
  
 /* Extra Bold */
- @font-face {
+ /*@font-face {
    font-family: DIN2014;
    src: url(https://res.cloudinary.com/kazitihum/raw/upload/v1530357793/Burt%20Semantic%20UI/DIN2014-extra-bold.woff) format('woff');
    font-style: normal;
    font-weight: 900
- }
+ }*/
 
 /*-------------------
       Background

@@ -24,7 +24,7 @@
 @labelMargin: 0em 0em @labelDistance 0em;
 @labelFontSize: @relativeSmall;
 @labelFontWeight: @bold;
-@labelTextTransform: none;
+@labelTextTransform: uppercase;
 @labelColor: @textColor;
 
 /* Input */

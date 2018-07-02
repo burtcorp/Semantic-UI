@@ -39,8 +39,8 @@
 /* Sub Menu */
 @subMenuDistance: 0.5em;
 @subMenuMargin: @subMenuDistance -@itemHorizontalPadding 0em;
-@subMenuFontSize: @relativeTiny;
-@subMenuTextColor: rgba(0, 0, 0, 0.5);
+@subMenuFontSize: @relativeMedium;
+@subMenuTextColor: rgba(0, 0, 0, 0.65);
 
 @subMenuIndent: 0em;
 @subMenuHorizontalPadding: (@itemHorizontalPadding / @tinySize) + @subMenuIndent;
@@ -73,7 +73,7 @@
 
 /* Vertical Header */
 @verticalHeaderMargin: 0em 0em 0.5em;
-@verticalHeaderFontSize: @relativeMedium;
+@verticalHeaderFontSize: @relativeLarge;
 @verticalHeaderFontWeight: @bold;
 
 /* Pointing Arrow */
